@@ -1,7 +1,7 @@
 # Leagcy-Runner
-Legacy Runner – Academy Club Game Jam 2021
+- Legacy Runner – Academy Club Game Jam 2021
 
-DESCRIPTION
+<h3>DESCRIPTION</h3>
 THIS GAME HAS WON ACADEMY CLUB GAMEJAM!
 ACADEMY CLUB GAMEJAM BEST 20 WINNER!
 First Hypercasual Game Jam.
@@ -14,3 +14,11 @@ Those power ups will be useful after your death and a new young character will u
 More projects are on the horizon ☀️
 
 Title: Legacy Runner
+
+<br><b>Screenshots</b>
+
+Screenshots           |  Screenshots 
+:-------------------------:|:-------------------------:
+![](./ForReadme/1.webp)  |  ![](./ForReadme/4.webp)
+![](./ForReadme/2.webp)  |  ![](./ForReadme/5.webp)
+![](./ForReadme/3.webp)  |  ![](./ForReadme/6.webp)
