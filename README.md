@@ -22,3 +22,6 @@ Screenshots           |  Screenshots
 ![](./ForReadme/1.webp)  |  ![](./ForReadme/4.webp)
 ![](./ForReadme/2.webp)  |  ![](./ForReadme/5.webp)
 ![](./ForReadme/3.webp)  |  ![](./ForReadme/6.webp)
+
+<br><b>Demo Video</b>  
+<video src="https://youtu.be/i-kMJllLpik" width=180/></video>
