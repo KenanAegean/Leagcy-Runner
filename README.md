@@ -24,4 +24,6 @@ Screenshots           |  Screenshots
 ![](./ForReadme/3.webp)  |  ![](./ForReadme/6.webp)
 
 <br><b>Demo Video</b>  
+[![Watch the video](./ForReadme/yt.png)](https://youtu.be/i-kMJllLpik?si=mGCWGwtLrJqQop8K)
+
 <video src="https://www.youtube.com/embed/i-kMJllLpik?si=04EAqE4BHfQkwR2b" width=180/></video>
